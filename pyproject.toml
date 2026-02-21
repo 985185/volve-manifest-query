@@ -1,0 +1,25 @@
+[project]
+name = "volve-manifest-query"
+version = "0.0.1"
+description = "Deterministic query interface over Volve per-well manifest.json files"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi>=0.110",
+  "uvicorn>=0.27",
+  "pydantic>=2.6",
+  "typer>=0.12",
+]
+
+[project.scripts]
+volveq = "volve_query.cli:app"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

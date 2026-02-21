@@ -1,0 +1,4158 @@
+{
+  "well": "15/9-F-11T",
+  "counts": {
+    "DDR_PDF": 117,
+    "DDR_XML": 53,
+    "Logs": 204,
+    "Other": 1,
+    "Well_Construction_Reports": 3
+  },
+  "buckets": {
+    "DDR_PDF": [
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/",
+        "name": "15_9-F-11 T2",
+        "type": "directory",
+        "ext_norm": "",
+        "top_folder": "Well_logs",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/15-9-F-11 T2_FormationPressureWD report.pdf",
+        "name": "15-9-F-11 T2_FormationPressureWD report.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/15-9-F-11_F_11_T2_VSP_Acquisition_programme.doc",
+        "name": "15-9-F-11_F_11_T2_VSP_Acquisition_programme.doc",
+        "type": "file",
+        "ext_norm": "doc",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/15-9-F-11_MDT Wireline logging programme.docx",
+        "name": "15-9-F-11_MDT Wireline logging programme.docx",
+        "type": "file",
+        "ext_norm": "docx",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/15_9_F-11_F-11T2_F-11A_F-11B_CPI_report.pdf",
+        "name": "15_9_F-11_F-11T2_F-11A_F-11B_CPI_report.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/15_9_F-11_F-11T2_F-11A_F-11B_EOWR mudlogging LWD directional drilling.pdf",
+        "name": "15_9_F-11_F-11T2_F-11A_F-11B_EOWR mudlogging LWD directional drilling.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/F-11 T2 Density Image Data Dip Plot 1_200.pdf",
+        "name": "F-11 T2 Density Image Data Dip Plot 1_200.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/F-11 T2 GR Image Data Dip Plot 1_1000.pdf",
+        "name": "F-11 T2 GR Image Data Dip Plot 1_1000.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/F-11 T2 GR Image Data Dip Plot 1_200.pdf",
+        "name": "F-11 T2 GR Image Data Dip Plot 1_200.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/F-11 T2 Image Data Dip Plot 1_1000.pdf",
+        "name": "F-11 T2 Image Data Dip Plot 1_1000.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs/14.DIV. REPORTS/15_9-F-11 T2/F-11 T2_Image data picks report_LWD memory_RNS.pdf",
+        "name": "F-11 T2_Image data picks report_LWD memory_RNS.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_24.html",
+        "name": "15_9_F_11_T2_2013_03_24.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_25.html",
+        "name": "15_9_F_11_T2_2013_03_25.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_26.html",
+        "name": "15_9_F_11_T2_2013_03_26.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_27.html",
+        "name": "15_9_F_11_T2_2013_03_27.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_28.html",
+        "name": "15_9_F_11_T2_2013_03_28.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_29.html",
+        "name": "15_9_F_11_T2_2013_03_29.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_30.html",
+        "name": "15_9_F_11_T2_2013_03_30.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_03_31.html",
+        "name": "15_9_F_11_T2_2013_03_31.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_01.html",
+        "name": "15_9_F_11_T2_2013_04_01.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_02.html",
+        "name": "15_9_F_11_T2_2013_04_02.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_03.html",
+        "name": "15_9_F_11_T2_2013_04_03.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_04.html",
+        "name": "15_9_F_11_T2_2013_04_04.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_05.html",
+        "name": "15_9_F_11_T2_2013_04_05.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_06.html",
+        "name": "15_9_F_11_T2_2013_04_06.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_07.html",
+        "name": "15_9_F_11_T2_2013_04_07.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_08.html",
+        "name": "15_9_F_11_T2_2013_04_08.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_09.html",
+        "name": "15_9_F_11_T2_2013_04_09.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_10.html",
+        "name": "15_9_F_11_T2_2013_04_10.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_11.html",
+        "name": "15_9_F_11_T2_2013_04_11.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_12.html",
+        "name": "15_9_F_11_T2_2013_04_12.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_13.html",
+        "name": "15_9_F_11_T2_2013_04_13.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_14.html",
+        "name": "15_9_F_11_T2_2013_04_14.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_15.html",
+        "name": "15_9_F_11_T2_2013_04_15.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_16.html",
+        "name": "15_9_F_11_T2_2013_04_16.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_17.html",
+        "name": "15_9_F_11_T2_2013_04_17.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_18.html",
+        "name": "15_9_F_11_T2_2013_04_18.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_19.html",
+        "name": "15_9_F_11_T2_2013_04_19.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_20.html",
+        "name": "15_9_F_11_T2_2013_04_20.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_21.html",
+        "name": "15_9_F_11_T2_2013_04_21.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_22.html",
+        "name": "15_9_F_11_T2_2013_04_22.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_23.html",
+        "name": "15_9_F_11_T2_2013_04_23.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_24.html",
+        "name": "15_9_F_11_T2_2013_04_24.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_25.html",
+        "name": "15_9_F_11_T2_2013_04_25.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_26.html",
+        "name": "15_9_F_11_T2_2013_04_26.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_27.html",
+        "name": "15_9_F_11_T2_2013_04_27.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_28.html",
+        "name": "15_9_F_11_T2_2013_04_28.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_29.html",
+        "name": "15_9_F_11_T2_2013_04_29.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_04_30.html",
+        "name": "15_9_F_11_T2_2013_04_30.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_01.html",
+        "name": "15_9_F_11_T2_2013_05_01.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_02.html",
+        "name": "15_9_F_11_T2_2013_05_02.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_03.html",
+        "name": "15_9_F_11_T2_2013_05_03.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_04.html",
+        "name": "15_9_F_11_T2_2013_05_04.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_05.html",
+        "name": "15_9_F_11_T2_2013_05_05.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_06.html",
+        "name": "15_9_F_11_T2_2013_05_06.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_07.html",
+        "name": "15_9_F_11_T2_2013_05_07.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_08.html",
+        "name": "15_9_F_11_T2_2013_05_08.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_09.html",
+        "name": "15_9_F_11_T2_2013_05_09.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_10.html",
+        "name": "15_9_F_11_T2_2013_05_10.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_11.html",
+        "name": "15_9_F_11_T2_2013_05_11.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_12.html",
+        "name": "15_9_F_11_T2_2013_05_12.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_13.html",
+        "name": "15_9_F_11_T2_2013_05_13.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_14.html",
+        "name": "15_9_F_11_T2_2013_05_14.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - HTML Version/15_9_F_11_T2_2013_05_15.html",
+        "name": "15_9_F_11_T2_2013_05_15.html",
+        "type": "file",
+        "ext_norm": "html",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_24.pdf",
+        "name": "15_9_F_11_T2_2013_03_24.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_25.pdf",
+        "name": "15_9_F_11_T2_2013_03_25.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_26.pdf",
+        "name": "15_9_F_11_T2_2013_03_26.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_27.pdf",
+        "name": "15_9_F_11_T2_2013_03_27.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_28.pdf",
+        "name": "15_9_F_11_T2_2013_03_28.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_29.pdf",
+        "name": "15_9_F_11_T2_2013_03_29.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_30.pdf",
+        "name": "15_9_F_11_T2_2013_03_30.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_03_31.pdf",
+        "name": "15_9_F_11_T2_2013_03_31.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_01.pdf",
+        "name": "15_9_F_11_T2_2013_04_01.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_02.pdf",
+        "name": "15_9_F_11_T2_2013_04_02.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_03.pdf",
+        "name": "15_9_F_11_T2_2013_04_03.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_04.pdf",
+        "name": "15_9_F_11_T2_2013_04_04.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_05.pdf",
+        "name": "15_9_F_11_T2_2013_04_05.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_06.pdf",
+        "name": "15_9_F_11_T2_2013_04_06.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_07.pdf",
+        "name": "15_9_F_11_T2_2013_04_07.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_08.pdf",
+        "name": "15_9_F_11_T2_2013_04_08.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_09.pdf",
+        "name": "15_9_F_11_T2_2013_04_09.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_10.pdf",
+        "name": "15_9_F_11_T2_2013_04_10.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_11.pdf",
+        "name": "15_9_F_11_T2_2013_04_11.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_12.pdf",
+        "name": "15_9_F_11_T2_2013_04_12.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_13.pdf",
+        "name": "15_9_F_11_T2_2013_04_13.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_14.pdf",
+        "name": "15_9_F_11_T2_2013_04_14.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_15.pdf",
+        "name": "15_9_F_11_T2_2013_04_15.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_16.pdf",
+        "name": "15_9_F_11_T2_2013_04_16.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_17.pdf",
+        "name": "15_9_F_11_T2_2013_04_17.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_18.pdf",
+        "name": "15_9_F_11_T2_2013_04_18.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_19.pdf",
+        "name": "15_9_F_11_T2_2013_04_19.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_20.pdf",
+        "name": "15_9_F_11_T2_2013_04_20.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_21.pdf",
+        "name": "15_9_F_11_T2_2013_04_21.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_22.pdf",
+        "name": "15_9_F_11_T2_2013_04_22.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_23.pdf",
+        "name": "15_9_F_11_T2_2013_04_23.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_24.pdf",
+        "name": "15_9_F_11_T2_2013_04_24.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_25.pdf",
+        "name": "15_9_F_11_T2_2013_04_25.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_26.pdf",
+        "name": "15_9_F_11_T2_2013_04_26.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_27.pdf",
+        "name": "15_9_F_11_T2_2013_04_27.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_28.pdf",
+        "name": "15_9_F_11_T2_2013_04_28.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_29.pdf",
+        "name": "15_9_F_11_T2_2013_04_29.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_04_30.pdf",
+        "name": "15_9_F_11_T2_2013_04_30.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_01.pdf",
+        "name": "15_9_F_11_T2_2013_05_01.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_02.pdf",
+        "name": "15_9_F_11_T2_2013_05_02.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_03.pdf",
+        "name": "15_9_F_11_T2_2013_05_03.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_04.pdf",
+        "name": "15_9_F_11_T2_2013_05_04.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_05.pdf",
+        "name": "15_9_F_11_T2_2013_05_05.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_06.pdf",
+        "name": "15_9_F_11_T2_2013_05_06.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_07.pdf",
+        "name": "15_9_F_11_T2_2013_05_07.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_08.pdf",
+        "name": "15_9_F_11_T2_2013_05_08.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_09.pdf",
+        "name": "15_9_F_11_T2_2013_05_09.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_10.pdf",
+        "name": "15_9_F_11_T2_2013_05_10.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_11.pdf",
+        "name": "15_9_F_11_T2_2013_05_11.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_12.pdf",
+        "name": "15_9_F_11_T2_2013_05_12.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_13.pdf",
+        "name": "15_9_F_11_T2_2013_05_13.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_14.pdf",
+        "name": "15_9_F_11_T2_2013_05_14.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling report - PDF Version/15_9_F_11_T2_2013_05_15.pdf",
+        "name": "15_9_F_11_T2_2013_05_15.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_technical_data",
+        "tags": "DOCS|WELL_TECH",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      }
+    ],
+    "DDR_XML": [
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_24.xml",
+        "name": "15_9_F_11_T2_2013_03_24.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_25.xml",
+        "name": "15_9_F_11_T2_2013_03_25.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_26.xml",
+        "name": "15_9_F_11_T2_2013_03_26.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_27.xml",
+        "name": "15_9_F_11_T2_2013_03_27.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_28.xml",
+        "name": "15_9_F_11_T2_2013_03_28.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_29.xml",
+        "name": "15_9_F_11_T2_2013_03_29.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_30.xml",
+        "name": "15_9_F_11_T2_2013_03_30.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_03_31.xml",
+        "name": "15_9_F_11_T2_2013_03_31.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_01.xml",
+        "name": "15_9_F_11_T2_2013_04_01.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_02.xml",
+        "name": "15_9_F_11_T2_2013_04_02.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_03.xml",
+        "name": "15_9_F_11_T2_2013_04_03.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_04.xml",
+        "name": "15_9_F_11_T2_2013_04_04.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_05.xml",
+        "name": "15_9_F_11_T2_2013_04_05.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_06.xml",
+        "name": "15_9_F_11_T2_2013_04_06.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_07.xml",
+        "name": "15_9_F_11_T2_2013_04_07.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_08.xml",
+        "name": "15_9_F_11_T2_2013_04_08.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_09.xml",
+        "name": "15_9_F_11_T2_2013_04_09.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_10.xml",
+        "name": "15_9_F_11_T2_2013_04_10.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_11.xml",
+        "name": "15_9_F_11_T2_2013_04_11.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_12.xml",
+        "name": "15_9_F_11_T2_2013_04_12.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_13.xml",
+        "name": "15_9_F_11_T2_2013_04_13.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_14.xml",
+        "name": "15_9_F_11_T2_2013_04_14.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_15.xml",
+        "name": "15_9_F_11_T2_2013_04_15.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_16.xml",
+        "name": "15_9_F_11_T2_2013_04_16.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_17.xml",
+        "name": "15_9_F_11_T2_2013_04_17.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_18.xml",
+        "name": "15_9_F_11_T2_2013_04_18.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_19.xml",
+        "name": "15_9_F_11_T2_2013_04_19.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_20.xml",
+        "name": "15_9_F_11_T2_2013_04_20.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_21.xml",
+        "name": "15_9_F_11_T2_2013_04_21.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_22.xml",
+        "name": "15_9_F_11_T2_2013_04_22.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_23.xml",
+        "name": "15_9_F_11_T2_2013_04_23.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_24.xml",
+        "name": "15_9_F_11_T2_2013_04_24.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_25.xml",
+        "name": "15_9_F_11_T2_2013_04_25.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_26.xml",
+        "name": "15_9_F_11_T2_2013_04_26.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_27.xml",
+        "name": "15_9_F_11_T2_2013_04_27.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_28.xml",
+        "name": "15_9_F_11_T2_2013_04_28.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_29.xml",
+        "name": "15_9_F_11_T2_2013_04_29.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_04_30.xml",
+        "name": "15_9_F_11_T2_2013_04_30.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_01.xml",
+        "name": "15_9_F_11_T2_2013_05_01.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_02.xml",
+        "name": "15_9_F_11_T2_2013_05_02.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_03.xml",
+        "name": "15_9_F_11_T2_2013_05_03.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_04.xml",
+        "name": "15_9_F_11_T2_2013_05_04.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_05.xml",
+        "name": "15_9_F_11_T2_2013_05_05.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_06.xml",
+        "name": "15_9_F_11_T2_2013_05_06.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_07.xml",
+        "name": "15_9_F_11_T2_2013_05_07.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_08.xml",
+        "name": "15_9_F_11_T2_2013_05_08.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_09.xml",
+        "name": "15_9_F_11_T2_2013_05_09.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_10.xml",
+        "name": "15_9_F_11_T2_2013_05_10.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_11.xml",
+        "name": "15_9_F_11_T2_2013_05_11.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_12.xml",
+        "name": "15_9_F_11_T2_2013_05_12.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_13.xml",
+        "name": "15_9_F_11_T2_2013_05_13.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_14.xml",
+        "name": "15_9_F_11_T2_2013_05_14.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_technical_data/Daily Drilling Report - XML Version/15_9_F_11_T2_2013_05_15.xml",
+        "name": "15_9_F_11_T2_2013_05_15.xml",
+        "type": "file",
+        "ext_norm": "xml",
+        "top_folder": "Well_technical_data",
+        "tags": "DDR_XML|WELL_TECH|XML",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      }
+    ],
+    "Logs": [
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/",
+        "name": "15_9-F-11 T2",
+        "type": "directory",
+        "ext_norm": "",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/",
+        "name": "01.MUD_LOG",
+        "type": "directory",
+        "ext_norm": "mud_log",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_1.DLIS",
+        "name": "MUD_LOG_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_1_INF_1.ASC",
+        "name": "MUD_LOG_1_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_MD_PLOT_1.PDF",
+        "name": "MUD_LOG_MD_PLOT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_MD_PLOT_2.PDF",
+        "name": "MUD_LOG_MD_PLOT_2.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_MD_PLOT_3.PDF",
+        "name": "MUD_LOG_MD_PLOT_3.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_REPORT_1.PDF",
+        "name": "MUD_LOG_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/01.MUD_LOG/MUD_LOG_TVD_PLOT_1.PDF",
+        "name": "MUD_LOG_TVD_PLOT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/",
+        "name": "02.LWD_EWL",
+        "type": "directory",
+        "ext_norm": "lwd_ewl",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/LOGGING_SUMMARY_1.ASC",
+        "name": "LOGGING_SUMMARY_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/MWD_REPORT_1.PDF",
+        "name": "MWD_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WLC_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1.DLIS",
+        "name": "WLC_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WLC_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1_INF_1.ASC",
+        "name": "WLC_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WLC_RAW_AAC-CAL-DEN-GR-NEU-NMR-REMP_MD_MWD_PLOT_1.CGM",
+        "name": "WLC_RAW_AAC-CAL-DEN-GR-NEU-NMR-REMP_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WLC_RAW_AAC-CAL-DEN-GR-NEU-NMR-REMP_TVD_MWD_PLOT_1.CGM",
+        "name": "WLC_RAW_AAC-CAL-DEN-GR-NEU-NMR-REMP_TVD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1-3_INF_1.ASC",
+        "name": "WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1-3_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1.DLIS",
+        "name": "WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_2.DLIS",
+        "name": "WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_2.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_3.DLIS",
+        "name": "WL_RAW_AAC-BHPR-CAL-DEN-GR-MECH-NEU-NMR-REMP_MWD_3.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC-CAL-DEN-GR-NEU-NMR-REMP_MD_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_AAC-CAL-DEN-GR-NEU-NMR-REMP_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MD_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_AAC_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MD_MWD_PLOT_2.CGM",
+        "name": "WL_RAW_AAC_MD_MWD_PLOT_2.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_1-6_INF_1.ASC",
+        "name": "WL_RAW_AAC_MWD_1-6_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_1.DLIS",
+        "name": "WL_RAW_AAC_MWD_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_2.DLIS",
+        "name": "WL_RAW_AAC_MWD_2.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_3.DLIS",
+        "name": "WL_RAW_AAC_MWD_3.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_4.DLIS",
+        "name": "WL_RAW_AAC_MWD_4.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_5.DLIS",
+        "name": "WL_RAW_AAC_MWD_5.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_AAC_MWD_6.DLIS",
+        "name": "WL_RAW_AAC_MWD_6.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-CAL-DEN-GR-MECH-NEU_MD_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_BHPR-CAL-DEN-GR-MECH-NEU_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH-REMP_MWD_1-3_INF_1.ASC",
+        "name": "WL_RAW_BHPR-GR-MECH-REMP_MWD_1-3_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH-REMP_MWD_1.DLIS",
+        "name": "WL_RAW_BHPR-GR-MECH-REMP_MWD_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH-REMP_MWD_2.DLIS",
+        "name": "WL_RAW_BHPR-GR-MECH-REMP_MWD_2.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH-REMP_MWD_3.DLIS",
+        "name": "WL_RAW_BHPR-GR-MECH-REMP_MWD_3.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH_MD_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_BHPR-GR-MECH_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH_MD_MWD_PLOT_2.CGM",
+        "name": "WL_RAW_BHPR-GR-MECH_MD_MWD_PLOT_2.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-GR-MECH_MD_MWD_PLOT_3.CGM",
+        "name": "WL_RAW_BHPR-GR-MECH_MD_MWD_PLOT_3.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_1-4_INF_1.ASC",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_1-4_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_1.ASC",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_2.ASC",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_2.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_3.ASC",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_3.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_4.ASC",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_4.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_PLOT_2.CGM",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_PLOT_2.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_PLOT_3.CGM",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_PLOT_3.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_BHPR-MECH_TIME_MWD_PLOT_4.CGM",
+        "name": "WL_RAW_BHPR-MECH_TIME_MWD_PLOT_4.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_GR-REMP_MD_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_GR-REMP_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_GR-REMP_MD_MWD_PLOT_2.CGM",
+        "name": "WL_RAW_GR-REMP_MD_MWD_PLOT_2.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_GR-REMP_MD_MWD_PLOT_3.CGM",
+        "name": "WL_RAW_GR-REMP_MD_MWD_PLOT_3.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_NMR_MD_MWD_PLOT_1.CGM",
+        "name": "WL_RAW_NMR_MD_MWD_PLOT_1.CGM",
+        "type": "file",
+        "ext_norm": "cgm",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_NMR_MWD_1-3_INF_1.ASC",
+        "name": "WL_RAW_NMR_MWD_1-3_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_NMR_MWD_1.DLIS",
+        "name": "WL_RAW_NMR_MWD_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_NMR_MWD_2.DLIS",
+        "name": "WL_RAW_NMR_MWD_2.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/02.LWD_EWL/WL_RAW_NMR_MWD_3.DLIS",
+        "name": "WL_RAW_NMR_MWD_3.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/",
+        "name": "03.PRESSURE",
+        "type": "directory",
+        "ext_norm": "pressure",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_COMPUTED_MWD_1.LAS",
+        "name": "FM_PRESS_COMPUTED_MWD_1.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_COMPUTED_MWD_1_INF_1.ASC",
+        "name": "FM_PRESS_COMPUTED_MWD_1_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_1-6_INF_1.ASC",
+        "name": "FM_PRESS_RAW_RUN7_MWD_1-6_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_1.LAS",
+        "name": "FM_PRESS_RAW_RUN7_MWD_1.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_2.LAS",
+        "name": "FM_PRESS_RAW_RUN7_MWD_2.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_3.LAS",
+        "name": "FM_PRESS_RAW_RUN7_MWD_3.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_4.LAS",
+        "name": "FM_PRESS_RAW_RUN7_MWD_4.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_5.LAS",
+        "name": "FM_PRESS_RAW_RUN7_MWD_5.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_6.LAS",
+        "name": "FM_PRESS_RAW_RUN7_MWD_6.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/03.PRESSURE/FM_PRESS_RAW_RUN7_MWD_REPORT_1.PDF",
+        "name": "FM_PRESS_RAW_RUN7_MWD_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/04.COMPOSITE/",
+        "name": "04.COMPOSITE",
+        "type": "directory",
+        "ext_norm": "composite",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/04.COMPOSITE/WLC_COMPOSITE_1.DLIS",
+        "name": "WLC_COMPOSITE_1.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/04.COMPOSITE/WLC_COMPOSITE_1_INF_1.PDF",
+        "name": "WLC_COMPOSITE_1_INF_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/04.COMPOSITE/WLC_PETROPHYSICAL_COMPOSITE_2.DLIS",
+        "name": "WLC_PETROPHYSICAL_COMPOSITE_2.DLIS",
+        "type": "file",
+        "ext_norm": "dlis",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DLIS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/04.COMPOSITE/WLC_PETROPHYSICAL_COMPOSITE_2_INF_1.PDF",
+        "name": "WLC_PETROPHYSICAL_COMPOSITE_2_INF_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/05.PETROPHYSICAL INTERPRETATION/",
+        "name": "05.PETROPHYSICAL INTERPRETATION",
+        "type": "directory",
+        "ext_norm": "petrophysical interpretation",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/05.PETROPHYSICAL INTERPRETATION/PETROPHYSICAL_REPORT_2.PDF",
+        "name": "PETROPHYSICAL_REPORT_2.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/05.PETROPHYSICAL INTERPRETATION/WLC_PETRO_COMPUTED_1_INF_1.ASC",
+        "name": "WLC_PETRO_COMPUTED_1_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/05.PETROPHYSICAL INTERPRETATION/WLC_PETRO_COMPUTED_INPUT_1.LAS",
+        "name": "WLC_PETRO_COMPUTED_INPUT_1.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/05.PETROPHYSICAL INTERPRETATION/WLC_PETRO_COMPUTED_OUTPUT_1.LAS",
+        "name": "WLC_PETRO_COMPUTED_OUTPUT_1.LAS",
+        "type": "file",
+        "ext_norm": "las",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "LAS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/",
+        "name": "08.VSP_VELOCITY",
+        "type": "directory",
+        "ext_norm": "vsp_velocity",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_DEPTH_MD_CHECKSHOT_1-2_INF_1.ASC",
+        "name": "TZV_DEPTH_MD_CHECKSHOT_1-2_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_DEPTH_MD_CHECKSHOT_1.ASC",
+        "name": "TZV_DEPTH_MD_CHECKSHOT_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_DEPTH_MD_CHECKSHOT_2.ASC",
+        "name": "TZV_DEPTH_MD_CHECKSHOT_2.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_TIME_CHECKSHOT_1-3_INF_1.ASC",
+        "name": "TZV_TIME_CHECKSHOT_1-3_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_TIME_CHECKSHOT_1.ASC",
+        "name": "TZV_TIME_CHECKSHOT_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_TIME_CHECKSHOT_2.ASC",
+        "name": "TZV_TIME_CHECKSHOT_2.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/TZV_TIME_CHECKSHOT_3.ASC",
+        "name": "TZV_TIME_CHECKSHOT_3.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VELOCITY_REPORT_1.PDF",
+        "name": "VELOCITY_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_1-39_INF_1.ASC",
+        "name": "VSPNI_COMPUTED_1-39_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_1-39_INF_2.ASC",
+        "name": "VSPNI_COMPUTED_1-39_INF_2.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_1.SEGY",
+        "name": "VSPNI_COMPUTED_1.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_10.SEGY",
+        "name": "VSPNI_COMPUTED_10.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_11.SEGY",
+        "name": "VSPNI_COMPUTED_11.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_12.SEGY",
+        "name": "VSPNI_COMPUTED_12.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_13.SEGY",
+        "name": "VSPNI_COMPUTED_13.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_14.SEGY",
+        "name": "VSPNI_COMPUTED_14.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_15.SEGY",
+        "name": "VSPNI_COMPUTED_15.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_16.SEGY",
+        "name": "VSPNI_COMPUTED_16.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_17.SEGY",
+        "name": "VSPNI_COMPUTED_17.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_18.SEGY",
+        "name": "VSPNI_COMPUTED_18.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_19.SEGY",
+        "name": "VSPNI_COMPUTED_19.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_2.SEGY",
+        "name": "VSPNI_COMPUTED_2.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_20.SEGY",
+        "name": "VSPNI_COMPUTED_20.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_21.SEGY",
+        "name": "VSPNI_COMPUTED_21.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_22.SEGY",
+        "name": "VSPNI_COMPUTED_22.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_23.SEGY",
+        "name": "VSPNI_COMPUTED_23.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_24.SEGY",
+        "name": "VSPNI_COMPUTED_24.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_25.SEGY",
+        "name": "VSPNI_COMPUTED_25.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_26.SEGY",
+        "name": "VSPNI_COMPUTED_26.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_27.SEGY",
+        "name": "VSPNI_COMPUTED_27.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_28.SEGY",
+        "name": "VSPNI_COMPUTED_28.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_29.SEGY",
+        "name": "VSPNI_COMPUTED_29.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_3.SEGY",
+        "name": "VSPNI_COMPUTED_3.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_30.SEGY",
+        "name": "VSPNI_COMPUTED_30.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_31.SEGY",
+        "name": "VSPNI_COMPUTED_31.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_32.SEGY",
+        "name": "VSPNI_COMPUTED_32.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_33.SEGY",
+        "name": "VSPNI_COMPUTED_33.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_34.SEGY",
+        "name": "VSPNI_COMPUTED_34.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_35.SEGY",
+        "name": "VSPNI_COMPUTED_35.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_36.SEGY",
+        "name": "VSPNI_COMPUTED_36.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_37.SEGY",
+        "name": "VSPNI_COMPUTED_37.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_38.SEGY",
+        "name": "VSPNI_COMPUTED_38.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_39.ASC",
+        "name": "VSPNI_COMPUTED_39.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_4.SEGY",
+        "name": "VSPNI_COMPUTED_4.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_5.SEGY",
+        "name": "VSPNI_COMPUTED_5.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_6.SEGY",
+        "name": "VSPNI_COMPUTED_6.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_7.SEGY",
+        "name": "VSPNI_COMPUTED_7.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_8.SEGY",
+        "name": "VSPNI_COMPUTED_8.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_COMPUTED_9.SEGY",
+        "name": "VSPNI_COMPUTED_9.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_RAW_1-4_INF_1.ASC",
+        "name": "VSPNI_RAW_1-4_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_RAW_1.SEGY",
+        "name": "VSPNI_RAW_1.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_RAW_2.SEGY",
+        "name": "VSPNI_RAW_2.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_RAW_3.SEGY",
+        "name": "VSPNI_RAW_3.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPNI_RAW_4.SEGY",
+        "name": "VSPNI_RAW_4.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_1-42_INF_1.ASC",
+        "name": "VSPRS_COMPUTED_1-42_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_1-42_INF_2.ASC",
+        "name": "VSPRS_COMPUTED_1-42_INF_2.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_1.SEGY",
+        "name": "VSPRS_COMPUTED_1.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_10.SEGY",
+        "name": "VSPRS_COMPUTED_10.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_11.SEGY",
+        "name": "VSPRS_COMPUTED_11.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_12.SEGY",
+        "name": "VSPRS_COMPUTED_12.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_13.SEGY",
+        "name": "VSPRS_COMPUTED_13.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_14.SEGY",
+        "name": "VSPRS_COMPUTED_14.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_15.SEGY",
+        "name": "VSPRS_COMPUTED_15.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_16.SEGY",
+        "name": "VSPRS_COMPUTED_16.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_17.SEGY",
+        "name": "VSPRS_COMPUTED_17.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_18.SEGY",
+        "name": "VSPRS_COMPUTED_18.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_19.SEGY",
+        "name": "VSPRS_COMPUTED_19.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_2.SEGY",
+        "name": "VSPRS_COMPUTED_2.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_20.SEGY",
+        "name": "VSPRS_COMPUTED_20.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_21.SEGY",
+        "name": "VSPRS_COMPUTED_21.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_22.SEGY",
+        "name": "VSPRS_COMPUTED_22.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_23.SEGY",
+        "name": "VSPRS_COMPUTED_23.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_24.SEGY",
+        "name": "VSPRS_COMPUTED_24.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_25.SEGY",
+        "name": "VSPRS_COMPUTED_25.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_26.SEGY",
+        "name": "VSPRS_COMPUTED_26.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_27.SEGY",
+        "name": "VSPRS_COMPUTED_27.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_28.SEGY",
+        "name": "VSPRS_COMPUTED_28.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_29.SEGY",
+        "name": "VSPRS_COMPUTED_29.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_3.SEGY",
+        "name": "VSPRS_COMPUTED_3.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_30.SEGY",
+        "name": "VSPRS_COMPUTED_30.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_31.SEGY",
+        "name": "VSPRS_COMPUTED_31.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_32.SEGY",
+        "name": "VSPRS_COMPUTED_32.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_33.SEGY",
+        "name": "VSPRS_COMPUTED_33.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_34.SEGY",
+        "name": "VSPRS_COMPUTED_34.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_35.SEGY",
+        "name": "VSPRS_COMPUTED_35.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_36.SEGY",
+        "name": "VSPRS_COMPUTED_36.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_37.SEGY",
+        "name": "VSPRS_COMPUTED_37.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_38.SEGY",
+        "name": "VSPRS_COMPUTED_38.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_39.SEGY",
+        "name": "VSPRS_COMPUTED_39.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_4.SEGY",
+        "name": "VSPRS_COMPUTED_4.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_40.SEGY",
+        "name": "VSPRS_COMPUTED_40.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_41.SEGY",
+        "name": "VSPRS_COMPUTED_41.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_42.ASC",
+        "name": "VSPRS_COMPUTED_42.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_5.SEGY",
+        "name": "VSPRS_COMPUTED_5.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_6.SEGY",
+        "name": "VSPRS_COMPUTED_6.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_7.SEGY",
+        "name": "VSPRS_COMPUTED_7.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_8.SEGY",
+        "name": "VSPRS_COMPUTED_8.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_COMPUTED_9.SEGY",
+        "name": "VSPRS_COMPUTED_9.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_RAW_1-4_INF_1.ASC",
+        "name": "VSPRS_RAW_1-4_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_RAW_1.SEGY",
+        "name": "VSPRS_RAW_1.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_RAW_2.SEGY",
+        "name": "VSPRS_RAW_2.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_RAW_3.SEGY",
+        "name": "VSPRS_RAW_3.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSPRS_RAW_4.SEGY",
+        "name": "VSPRS_RAW_4.SEGY",
+        "type": "file",
+        "ext_norm": "segy",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "SEGY",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSP_REPORT_1.PDF",
+        "name": "VSP_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSP_REPORT_2.PDF",
+        "name": "VSP_REPORT_2.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSP_REPORT_3.PDF",
+        "name": "VSP_REPORT_3.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/08.VSP_VELOCITY/VSP_REPORT_4.PDF",
+        "name": "VSP_REPORT_4.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/",
+        "name": "12.BIOSTRAT",
+        "type": "directory",
+        "ext_norm": "biostrat",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_COMPUTED_1-2_INF_1.ASC",
+        "name": "BIOSTRAT_COMPUTED_1-2_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_COMPUTED_1.DEX",
+        "name": "BIOSTRAT_COMPUTED_1.DEX",
+        "type": "file",
+        "ext_norm": "dex",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_COMPUTED_2.DEX",
+        "name": "BIOSTRAT_COMPUTED_2.DEX",
+        "type": "file",
+        "ext_norm": "dex",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_RAW_1-2_INF_1.ASC",
+        "name": "BIOSTRAT_RAW_1-2_INF_1.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_RAW_1.DEX",
+        "name": "BIOSTRAT_RAW_1.DEX",
+        "type": "file",
+        "ext_norm": "dex",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_RAW_2.DEX",
+        "name": "BIOSTRAT_RAW_2.DEX",
+        "type": "file",
+        "ext_norm": "dex",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_REPORT_1.PDF",
+        "name": "BIOSTRAT_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/12.BIOSTRAT/BIOSTRAT_REPORT_2.PDF",
+        "name": "BIOSTRAT_REPORT_2.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/",
+        "name": "14.DIV.REPORTS",
+        "type": "directory",
+        "ext_norm": "reports",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "",
+        "foreign_ref_wells": []
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/15-9-F-11 T2_FormationPressureWD report.pdf",
+        "name": "15-9-F-11 T2_FormationPressureWD report.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/15-9-F-11_F_11_T2_VSP_Acquisition_programme.doc",
+        "name": "15-9-F-11_F_11_T2_VSP_Acquisition_programme.doc",
+        "type": "file",
+        "ext_norm": "doc",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/15-9-F-11_MDT Wireline logging programme.docx",
+        "name": "15-9-F-11_MDT Wireline logging programme.docx",
+        "type": "file",
+        "ext_norm": "docx",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/15_9_F-11_F-11T2_F-11A_F-11B_CPI_report.pdf",
+        "name": "15_9_F-11_F-11T2_F-11A_F-11B_CPI_report.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/15_9_F-11_F-11T2_F-11A_F-11B_EOWR mudlogging LWD directional drilling.pdf",
+        "name": "15_9_F-11_F-11T2_F-11A_F-11B_EOWR mudlogging LWD directional drilling.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/F-11 T2 Density Image Data Dip Plot 1_200.pdf",
+        "name": "F-11 T2 Density Image Data Dip Plot 1_200.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/F-11 T2 GR Image Data Dip Plot 1_1000.pdf",
+        "name": "F-11 T2 GR Image Data Dip Plot 1_1000.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/F-11 T2 GR Image Data Dip Plot 1_200.pdf",
+        "name": "F-11 T2 GR Image Data Dip Plot 1_200.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/F-11 T2 Image Data Dip Plot 1_1000.pdf",
+        "name": "F-11 T2 Image Data Dip Plot 1_1000.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/F-11 T2_Image data picks report_LWD memory_RNS.pdf",
+        "name": "F-11 T2_Image data picks report_LWD memory_RNS.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      }
+    ],
+    "Other": [
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Seismic/VSP/Checkshots/checkshot_15_9_F_11T2.ASC",
+        "name": "checkshot_15_9_F_11T2.ASC",
+        "type": "file",
+        "ext_norm": "asc",
+        "top_folder": "Seismic",
+        "tags": "",
+        "foreign_ref_wells": []
+      }
+    ],
+    "Well_Construction_Reports": [
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/15-9-F-11 T2_Completion log.pdf",
+        "name": "15-9-F-11 T2_Completion log.pdf",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/COMPLETION_REPORT_1.PDF",
+        "name": "COMPLETION_REPORT_1.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      },
+      {
+        "path": "dbfs:/Volumes/equinor_asa_volve_data_village/public/volve/Well_logs_pr_WELL/15_9-F-11 T2/14.DIV.REPORTS/COMPLETION_REPORT_2.PDF",
+        "name": "COMPLETION_REPORT_2.PDF",
+        "type": "file",
+        "ext_norm": "pdf",
+        "top_folder": "Well_logs_pr_WELL",
+        "tags": "DOCS",
+        "foreign_ref_wells": [
+          "15/9-F-11"
+        ]
+      }
+    ]
+  }
+}

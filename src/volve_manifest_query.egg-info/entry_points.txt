@@ -1,0 +1,2 @@
+[console_scripts]
+volveq = volve_query.cli:app
