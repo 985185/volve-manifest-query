@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-volveq = "volve_query.cli:app"
+volveq = "volve_query.cli:main"
 
 [build-system]
 requires = ["setuptools>=68"]
