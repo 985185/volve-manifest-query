@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  volve-query:
+    build: .
+    container_name: volve-manifest-query
+    ports:
+      - "8000:8000"
+    environment:
+      - VOLVE_WELLS_DIR=wells
+    restart: unless-stopped
